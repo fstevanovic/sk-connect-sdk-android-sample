@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">briidge.net Sample</string>
+    <string name="app_title">briidge.net Sample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_authenticate_device_activity">Authenticate Device</string>
+    <string name="title_set_quickcode_activity">Set QuickCode</string>
+    <string name="title_verify_quickcode_activity">Verify QuickCode - Assert user</string>
+    <string name="title_change_quickcode_activity">Change QuickCode</string>
+    <string name="title_pair_device_activity">Pair Device</string>
+    <string name="title_unpair_device_activity">Unpair Device</string>
+    <string name="title_get_paired_users_activity">Get Paired Users</string>
+    <string name="title_login_activity">Simulated Login</string>
+    <string name="card_read_text_info">This sample demonstrates reading a card. Make sure the NFC is turned on in Settings. Tap the card when prompted to do so.</string>
+    <string name="card_read_warning">WARNING: We don\'t recommend you to use your active personal card as your issuer may block it after several read attempts.</string>
+    <string name="title_read_card_activity">Read Card</string>
+    
+</resources>
